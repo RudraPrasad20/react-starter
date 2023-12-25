@@ -1,9 +1,11 @@
-# React + Vite + Redux Toolkit + Tailwind + React Router Dom + Redux Persist
+# Vite + React + Redux +Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-This includes
+This template provides a minimal setup to get React working in Vite with some ESLint rules.
+This includes :
 - React.js Basic Files
 - Vite
 - Redux Toolkit with Redux Persist
 - React Router Dom
 - Tailwind CSS
+
+## don't forget to do ```npm i``` after cloning
